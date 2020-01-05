@@ -1,0 +1,11 @@
+Package: rcolors
+Title: NCL color tables in R language
+Version: 0.0.0.9000
+Authors@R: c(
+    person("Dongdong", "Kong", role = c("aut", "cre"), email = "kongdd.sysu@gmail.com"))
+Description: NCL color tables in R language.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.1
+Roxygen: list(markdown = TRUE)
