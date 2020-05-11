@@ -4,7 +4,7 @@
 # rcolors: 270 ncl colormaps in R
 
 <!-- badges: start -->
-[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/kongdd/rcolormap?branch=master&svg=true)](https://ci.appveyor.com/project/kongdd/rcolormap)
+[![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/kongdd/rcolors?branch=master&svg=true)](https://ci.appveyor.com/project/kongdd/rcolormap)
 [![Travis build status](https://travis-ci.com/kongdd/rcolors.svg?branch=master)](https://travis-ci.com/kongdd/rcolors)
 [![Codecov test coverage](https://codecov.io/gh/kongdd/rcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/kongdd/rcolors?branch=master)
 <!-- badges: end -->
