@@ -14,4 +14,4 @@
 #' str(colors_group[1:6])
 "colors_group"
 
-colors <- rcolors::rcolors
+# colors <- rcolors::rcolors
