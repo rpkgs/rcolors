@@ -1,7 +1,11 @@
-^rcolormap\.Rproj$
+^rcolors\.Rproj$
 ^\.Rproj\.user$
 ^LICENSE\.md$
 ^data-raw$
 ^images$
 ^test$
 ^appveyor\.yml$
+^rcolors\.pdf$
+^README\.Rmd$
+^\.travis\.yml$
+^codecov\.yml$

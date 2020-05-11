@@ -1,5 +1,8 @@
 .Rproj.user
 .Rhistory
 
-*.pdf
-*.svg
+# *.pdf
+# *.svg
+
+doc/pdf
+tests/*/*.pdf
