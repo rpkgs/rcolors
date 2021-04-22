@@ -2,6 +2,8 @@
 #' 
 #' @param file ncl rgb file
 #' 
+#' @inherit grDevices::rgb return
+#' 
 #' @import magrittr
 #' @keywords internal
 #' @export
@@ -16,7 +18,6 @@ read_color <- function(file) {
     }, error = function(e){
         # print(file)
         message(sprintf("[%s]: %s", basename(file), e$message))
-        # browser()
     })
     # colors
 }

@@ -8,6 +8,8 @@
 #' `supported col names`: 270 ncl colors (`names(rcolors)`) and 35 
 #' RColorBrewer colors (`names(colors_group$brewer)`).
 #' 
+#' @inherit grDevices::rgb return
+#' 
 #' @seealso [show_cols()]
 #' @examples
 #' print(names(rcolors[1:6]))

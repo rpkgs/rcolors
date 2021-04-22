@@ -21,7 +21,9 @@ show_cols <- function(colors_list, margin = 8, fontsize = 1, family = NULL) {
 
     # par(mfrow = c(n, 1), mar = rep(0.25, 4))
     height <- 0.05
-    par(mfrow = c(n, 1), mar = c(height, 0.25, height, margin), mgp = c(0, 0, 0))
+    old <- par(mfrow = c(n, 1), mar = c(height, 0.25, height, margin), mgp = c(0, 0, 0))
+    on.exit(par(old))
+
     suppressWarnings({
         for(i in seq_along(colors_list)) {
             color = colors_list[[i]]
@@ -95,6 +97,7 @@ show_col <- function(colors, labels = TRUE, borders = NULL, cex_label = 1, nrow 
     colors <- matrix(colors, ncol = ncol, byrow = TRUE)
     old <- par(pty = "s", mar = c(0, 0, 0, 0))
     on.exit(par(old))
+
     size <- max(dim(colors))
     plot(c(0, size), c(0, -size),
         type = "n", xlab = "",

@@ -9,6 +9,14 @@ read_color(file)
 \arguments{
 \item{file}{ncl rgb file}
 }
+\value{
+A character vector with elements of 7 or 9 characters, \code{"#"}
+  followed by the red, blue, green and optionally alpha values in
+  hexadecimal (after rescaling to \code{0 ... 255}).  The optional alpha
+  values range from \code{0} (fully transparent) to \code{255} (opaque).
+
+  \R does \strong{not} use \sQuote{premultiplied alpha}.
+}
 \description{
 read colors from ncl
 }
