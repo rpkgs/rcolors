@@ -61,7 +61,7 @@ show_cols(rcolors2$rainbow, margin = 14)
 
 ## Rainbow
 
-|amwg256<br>[![img](images/amwg256_labelbar.sm.png)](ucar/amwg256.shtml) n=254| BkBlAqGrYeOrReViWh200<br>[![img](images/BkBlAqGrYeOrReViWh200_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BkBlAqGrYeOrReViWh200.shtml) n=200| BlAqGrYeOrRe<br>[![img](images/BlAqGrYeOrRe_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BlAqGrYeOrRe.shtml) n=100| BlAqGrYeOrReVi200<br>[![img](images/BlAqGrYeOrReVi200_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BlAqGrYeOrReVi200.shtml) n=200|
+|amwg256<br>[![img](images/amwg256_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/amwg256.shtml) n=254| BkBlAqGrYeOrReViWh200<br>[![img](images/BkBlAqGrYeOrReViWh200_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BkBlAqGrYeOrReViWh200.shtml) n=200| BlAqGrYeOrRe<br>[![img](images/BlAqGrYeOrRe_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BlAqGrYeOrRe.shtml) n=100| BlAqGrYeOrReVi200<br>[![img](images/BlAqGrYeOrReVi200_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BlAqGrYeOrReVi200.shtml) n=200|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | BlGrYeOrReVi200<br>[![img](images/BlGrYeOrReVi200_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/BlGrYeOrReVi200.shtml) n=200| example<br>[![img](images/example_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/example.shtml) n=113| GMT_seis<br>[![img](images/GMT_seis_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/GMT_seis.shtml) n=256| GMT_wysiwygcont<br>[![img](images/GMT_wysiwygcont_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/GMT_wysiwygcont.shtml) n=200|
 | matlab_hsv<br>[![img](images/matlab_hsv_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/matlab_hsv.shtml) n=64| matlab_jet<br>[![img](images/matlab_jet_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/matlab_jet.shtml) n=64| MPL_gist_ncar<br>[![img](images/MPL_gist_ncar_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_gist_ncar.shtml) n=128| MPL_gist_rainbow<br>[![img](images/MPL_gist_rainbow_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_gist_rainbow.shtml) n=128|
@@ -114,7 +114,7 @@ show_cols(rcolors2$rainbow, margin = 14)
 | StepSeq25<br>[![img](images/StepSeq25_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/StepSeq25.shtml) n=25|                                                              |                                                              |                                                              |
 
 
-## [MeteoSwiss](http://www.meteoswiss.ch/) 
+## [MeteoSwiss](https://www.meteoswiss.admin.ch/home.html)
 
 | hotcold_18lev<br>[![img](images/hotcold_18lev_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/hotcold_18lev.shtml) n=19| hotcolr_19lev<br>[![img](images/hotcolr_19lev_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/hotcolr_19lev.shtml) n=20| mch_default<br>[![img](images/mch_default_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/mch_default.shtml) n=15| perc2_9lev<br>[![img](images/perc2_9lev_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/perc2_9lev.shtml) n=10|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -312,13 +312,13 @@ show_cols(rcolors2$rainbow, margin = 14)
 
 
 
-## [GrADS](http://www.iges.org/grads/) 
+## [GrADS]
 
 | grads_default<br>[![img](images/grads_default_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/grads_default.shtml) n=14| grads_rainbow<br>[![img](images/grads_rainbow_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/grads_rainbow.shtml) n=13|
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 |                                                              |                                                              |
 
-## [matplotlib](http://matplotlib.org/) 
+## [matplotlib](https://matplotlib.org/) 
 
 | MPL_Accent<br>[![img](images/MPL_Accent_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_Accent.shtml) n=128| MPL_afmhot<br>[![img](images/MPL_afmhot_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_afmhot.shtml) n=128| MPL_autumn<br>[![img](images/MPL_autumn_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_autumn.shtml) n=128| MPL_Blues<br>[![img](images/MPL_Blues_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/MPL_Blues.shtml) n=128|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -359,7 +359,7 @@ show_cols(rcolors2$rainbow, margin = 14)
 
 
 
-## [ColorBrewer](http://colorbrewer2.org/) 
+## [ColorBrewer](https://colorbrewer2.org/) 
 
 | CBR_coldhot<br>[![img](images/CBR_coldhot_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/CBR_coldhot.shtml) n=11| CBR_drywet<br>[![img](images/CBR_drywet_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/CBR_drywet.shtml) n=11| CBR_set3<br>[![img](images/CBR_set3_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/CBR_set3.shtml) n=12| CBR_wet<br>[![img](images/CBR_wet_labelbar.sm.png)](https://www.ncl.ucar.edu/Document/Graphics/ColorTables/CBR_wet.shtml) n=11|
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |

@@ -4,12 +4,12 @@
 \name{rcolors-package}
 \alias{rcolors}
 \alias{rcolors-package}
-\title{rcolors: 270 NCL Color Tables in R language}
+\title{rcolors: 270 'NCL' Color Tables in R Language}
 \description{
 'NCL' (NCAR Command Language) is one of the most popular spatial 
     data mapping tools in meteorology studies, due to its beautiful output 
     figures with plenty of color palettes designed by experts 
-    (https://www.ncl.ucar.edu/index.shtml). 
+    <https://www.ncl.ucar.edu/index.shtml>. 
     Here we translate all 'NCL' color palettes into R hexadecimal RGB colors and 
     provide color selection function, which will help users make a beautiful figure.
 }
