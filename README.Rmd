@@ -36,12 +36,15 @@ This is a basic example which shows you how to use `rcolors`:
 
 ```{r get_color, fig.height=0.3, fig.width=7}
 library(rcolors)
-rcolors$amwg_blueyellowred %>% show_cols()
-get_color("amwg_blueyellowred", n = 20)
+cols = rcolors$amwg_blueyellowred
+show_cols(cols)
+
+(cols_1 = get_color(rcolors$amwg_blueyellowred, n = 20))
+(cols_2 = get_color("amwg_blueyellowred", n = 20))
 ```
 ```{r show_cols, fig.height=8, fig.width=7}
-print(names(rcolors2))
-show_cols(rcolors2$rainbow, margin = 14)
+print(names(colors_group))
+show_cols(colors_group$rainbow, margin = 14)
 ```
 
 
