@@ -1,23 +1,19 @@
 
 <!-- README.md is generated from README.Rmd. Please edit that file -->
 
-# rcolormap: 270 ncl colormaps in R
+# rcolors: 270 ncl colormaps in R
 
 <!-- badges: start -->
-
-[![AppVeyor build
-status](https://ci.appveyor.com/api/projects/status/github/kongdd/rcolormap?branch=master&svg=true)](https://ci.appveyor.com/project/kongdd/rcolormap)
-[![Travis build
-status](https://travis-ci.com/kongdd/rcolors.svg?branch=master)](https://travis-ci.com/kongdd/rcolors)
-[![Codecov test
-coverage](https://codecov.io/gh/kongdd/rcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/kongdd/rcolors?branch=master)
 [![R-CMD-check](https://github.com/kongdd/rcolormap/workflows/R-CMD-check/badge.svg)](https://github.com/kongdd/rcolormap/actions)
+[![Codecov test coverage](https://codecov.io/gh/kongdd/rcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/kongdd/rcolors?branch=master)
+[![total](http://cranlogs.r-pkg.org/badges/grand-total/rcolors)](https://www.rpackages.io/package/rcolors)
+[![monthly](http://cranlogs.r-pkg.org/badges/rcolors)](https://www.rpackages.io/package/rcolors)
 <!-- badges: end -->
 
 ## Installation
 
 ``` r
-devtools::install_github("kongdd/rcolors")
+install.packages("rcolors")
 ```
 
 ## Example
