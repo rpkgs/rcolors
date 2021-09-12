@@ -9,7 +9,7 @@
 ^README\.Rmd$
 ^\.travis\.yml$
 ^codecov\.yml$
-^inst$
+^inst/doc_rcolors$
 ^doc$
 ^\.github$
 ^cran_submit\.md$

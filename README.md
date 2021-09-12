@@ -4,8 +4,8 @@
 # rcolors: 270 ncl colormaps in R
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/kongdd/rcolormap/workflows/R-CMD-check/badge.svg)](https://github.com/kongdd/rcolormap/actions)
-[![Codecov test coverage](https://codecov.io/gh/kongdd/rcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/kongdd/rcolors?branch=master)
+[![R-CMD-check](https://github.com/rpkgs/rcolors/workflows/R-CMD-check/badge.svg)](https://github.com/rpkgs/rcolors/actions)
+[![Codecov test coverage](https://codecov.io/gh/rpkgs/rcolors/branch/master/graph/badge.svg)](https://codecov.io/gh/rpkgs/rcolors?branch=master)
 [![total](http://cranlogs.r-pkg.org/badges/grand-total/rcolors)](https://www.rpackages.io/package/rcolors)
 [![monthly](http://cranlogs.r-pkg.org/badges/rcolors)](https://www.rpackages.io/package/rcolors)
 <!-- badges: end -->
