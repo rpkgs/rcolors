@@ -6,12 +6,7 @@
 \alias{rcolors-package}
 \title{rcolors: 270 'NCL' Color Tables in R Language}
 \description{
-'NCL' (NCAR Command Language) is one of the most popular spatial 
-    data mapping tools in meteorology studies, due to its beautiful output 
-    figures with plenty of color palettes designed by experts 
-    <https://www.ncl.ucar.edu/index.shtml>. 
-    Here we translate all 'NCL' color palettes into R hexadecimal RGB colors and 
-    provide color selection function, which will help users make a beautiful figure.
+'NCL' (NCAR Command Language) is one of the most popular spatial data mapping tools in meteorology studies, due to its beautiful output figures with plenty of color palettes designed by experts \url{https://www.ncl.ucar.edu/index.shtml}. Here we translate all 'NCL' color palettes into R hexadecimal RGB colors and provide color selection function, which will help users make a beautiful figure.
 }
 \author{
 \strong{Maintainer}: Dongdong Kong \email{kongdd.sysu@gmail.com} (\href{https://orcid.org/0000-0003-1836-8172}{ORCID})
