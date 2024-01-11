@@ -15,3 +15,11 @@
 "colors_group"
 
 # colors <- rcolors::rcolors
+
+# #' @rdname colors_group
+# #' @export 
+# ncl_colors = rcolors
+
+# #' @rdname colors_group
+# #' @export
+# ncl_group = colors_group
